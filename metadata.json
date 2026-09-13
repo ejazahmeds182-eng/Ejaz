@@ -1,0 +1,6 @@
+{
+  "name": "JJRS Game",
+  "description": "JJRS Game arcade simulator with Aviator crash, Lucky Roulette, Fortune Gems, VIP progression, daily check-in rewards, and wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
